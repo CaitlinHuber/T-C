@@ -1,0 +1,42 @@
+body {
+  background-color: #FFFDD8;
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  color: #045A12;
+  font-size: 48px;
+  text-align: left;
+}
+
+#introStatement {
+  color: #045A12;
+  font-size: 30px;
+  line-height: .3%;
+  text-align: left;
+}
+
+#introParagraph, #introParagraph2 {
+  font-size: 19px;
+}
+
+#comingSoon{
+  color: #045A12;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#imageBumblebee {
+  height: 100px;
+  width: 250px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+#imageGreenhouse {
+  height: 285px;
+  width: 475px;
+}

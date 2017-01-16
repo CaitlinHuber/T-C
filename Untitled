@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <title>T &amp; C Enterprises </title>
+  <link href="tc.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <h1> T & C Produce </h1>
+    <p>
+      <img src="images/bumblebee.jpeg" alt="Bumblebee" id="imageBumblebee"/>
+    </p>
+    <p id="introStatement"> Grow &amp; Sustain </p>
+   <hr/>
+    <p id="introParagraph">
+      Locally grown all year round with lots of hard work
+       dedication, and pride. All produce is currently being grown inside a
+       greenhouse for the winter season.
+     </p>
+
+    <p>
+      <img src="images/greenhouse.jpg" alt="Greenhouse" id="imageGreenhouse"/>
+    </p>
+
+    <p id="introParagraph2"> We love what we do and hope you do too. </p>
+
+    <h2> Veggies </h2>
+    <h2> Fruits </h2>
+    <h2 id="comingSoon"> And Coming Soon HONEY </h2>
+  </body>
+</html>
