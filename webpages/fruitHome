@@ -12,6 +12,31 @@
 
    <div id ="divider"></div>
 
+   <div id ="table">
+   <table id = "row1" >
+     <tr>
+       <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+         id ="imageLettuce"/> </td>
+       <td> Apple info </td>
+       <td id ="columnSpace"> </td>
+       <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
+          id ="imageLettuce"/> </td>
+        <td> Apple info </td>
+      </tr>
+    </table>
+    <table id ="row2">
+      <tr>
+        <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+          id ="imageLettuce"/> </td>
+        <td> Apple info </td>
+        <td id ="columnSpace"> </td>
+        <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
+           id ="imageLettuce"/> </td>
+         <td> Apple info </td>
+       </tr>
+     </table>
+   </div>
+
    </div>
   </body>
 </html>
