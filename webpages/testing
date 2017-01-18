@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <title> Veggies </title>
+  <link href="../CSS/testingCSS.css" rel="stylesheet" />
+  </head>
+
+  <body>
+   <div id = "container">
+   <h1> Vegetables </h1>
+
+   <div id ="divider"></div>
+
+   <div id ="tables1">
+   <table>
+     <caption align="bottom"> aaaaaaaaaaaaaaaaaaa
+       aaaaaaaaaaaaaaa  aaaaaaa  aa a a a a a a</caption>
+     <tr>
+       <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+         id ="imageLettuce"/> </th>
+       </table>
+
+       <table >
+         <caption align="bottom"> Lettuce Info </caption>
+         <tr>
+           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </th>
+       </table>
+
+       <table>
+         <caption align="bottom"> Lettuce Info </caption>
+         <tr>
+           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </th>
+       </table>
+     </div>
+
+     <div id ="tables2">
+       <table>
+         <caption align="bottom"> Lettuce Info </caption>
+         <tr>
+           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </th>
+       </table>
+
+       <table>
+         <caption align="bottom"> Lettuce Info </caption>
+         <tr>
+           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </th>
+       </table>
+
+       <table>
+         <caption align="bottom"> Lettuce Info </caption>
+         <tr>
+           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </th>
+       </table>
+     </div>
+     
+  </body>
+</html>

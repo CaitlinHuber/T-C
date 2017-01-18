@@ -1,0 +1,38 @@
+body {
+  background-color: #FFFDD8;
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  color: #045A12;
+  font-size: 48px;
+  text-align: left;
+  margin: 0px 0px 0px 12px;
+}
+
+td {
+  padding-right: 20px;
+}
+
+table{
+  height: 250px;
+  float: left;
+  width:33%;
+}
+
+
+
+#divider{
+  border-width: thin;
+  border-style: solid;
+  margin-top: 15px;
+  margin-bottom: 35px;
+}
+
+#imageLettuce {
+  height: 150px;
+  width: 150px;
+}
