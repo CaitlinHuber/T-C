@@ -1,0 +1,21 @@
+body {
+  background-color: #FFFDD8;
+}
+
+div {
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  color: #045A12;
+  font-size: 48px;
+  text-align: left;
+  margin: 0px 0px 0px 12px;
+}
+
+#divider{
+  border-width: thin;
+  border-style: solid;
+  margin-top: 15px;
+}

@@ -7,12 +7,15 @@
   </head>
 
   <body>
+    <div id = "container">
     <h1> T & C Produce </h1>
     <p>
       <img src="images/bumblebee.jpeg" alt="Bumblebee" id="imageBumblebee"/>
     </p>
     <p id="introStatement"> Grow &amp; Sustain </p>
-   <hr/>
+
+    <div id ="divider"></div>
+
     <p id="introParagraph">
       Locally grown all year round with lots of hard work
        dedication, and pride. All produce is currently being grown inside a
@@ -25,8 +28,15 @@
 
     <p id="introParagraph2"> We love what we do and hope you do too. </p>
 
-    <h2> Veggies </h2>
-    <h2> Fruits </h2>
+    <h2> <a href =
+      "/Users/caitlin.huber/Documents/MessingAround/TCDesigns/veggiesHome"
+      target="_blank"> Veggies </a>
+     </h2>
+    <h2> <a href =
+      "/Users/caitlin.huber/Documents/MessingAround/TCDesigns/fruitHome"
+      target="_blank">  Fruits </a>
+     </h2>
     <h2 id="comingSoon"> And Coming Soon HONEY </h2>
+  </div>
   </body>
 </html>
