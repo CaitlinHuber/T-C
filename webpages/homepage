@@ -3,14 +3,14 @@
   <head>
   <meta charset="utf-8">
   <title>T &amp; C Enterprises </title>
-  <link href="tc.css" rel="stylesheet" />
+  <link href="../CSS/tc.css" rel="stylesheet" />
   </head>
 
   <body>
     <div id = "container">
     <h1> T & C Produce </h1>
     <p>
-      <img src="images/bumblebee.jpeg" alt="Bumblebee" id="imageBumblebee"/>
+      <img src="../images/bumblebee.jpeg" alt="Bumblebee" id="imageBumblebee"/>
     </p>
     <p id="introStatement"> Grow &amp; Sustain </p>
 
@@ -23,18 +23,14 @@
      </p>
 
     <p>
-      <img src="images/greenhouse.jpg" alt="Greenhouse" id="imageGreenhouse"/>
+      <img src="../images/greenhouse.jpg" alt="Greenhouse" id="imageGreenhouse"/>
     </p>
 
     <p id="introParagraph2"> We love what we do and hope you do too. </p>
 
-    <h2> <a href =
-      "/Users/caitlin.huber/Documents/MessingAround/TCDesigns/veggiesHome"
-      target="_blank"> Veggies </a>
+    <h2> <a href = "../webpages/veggiesHome" target="_blank"> Veggies </a>
      </h2>
-    <h2> <a href =
-      "/Users/caitlin.huber/Documents/MessingAround/TCDesigns/fruitHome"
-      target="_blank">  Fruits </a>
+    <h2> <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
      </h2>
     <h2 id="comingSoon"> And Coming Soon HONEY </h2>
   </div>

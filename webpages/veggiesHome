@@ -3,12 +3,12 @@
   <head>
   <meta charset="utf-8">
   <title> Veggies </title>
-  <link href="fruitCSS.css" rel="stylesheet" />
+  <link href="../CSS/veggiesCSS.css" rel="stylesheet" />
   </head>
 
   <body>
    <div id = "container">
-   <h1> Fruits </h1>
+   <h1> Vegtables </h1>
 
    <div id ="divider"></div>
 
