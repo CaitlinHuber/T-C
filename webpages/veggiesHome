@@ -8,10 +8,15 @@
   </head>
 
   <body>
-   <div id = "container">
+   <div class= "container">
    <h1> Vegetables </h1>
 
    <div id ="divider"></div>
+   <div class="nav">
+      <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
+      <a href="../webpages/beesHome" target="_blank"> Honey </a>
+      <a href="" target="_blank"> Worms</a>
+   </div>
 
    <div id ="table">
    <table id = "row1" >
@@ -26,8 +31,8 @@
           id ="imageLettuce"/> </td>
         <td> Apple info1 </td>
       </tr>
-
     </table>
+
     <table id ="row2">
       <tr>
         <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
@@ -38,6 +43,49 @@
            id ="imageLettuce"/> </td>
          <td> Apple info </td>
        </tr>
+
+       <table id = "row3" >
+         <tr>
+           <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </td>
+           <td> Apple info Apple info Apple info Apple info </td>
+
+           <td id ="columnSpace"> </td>
+
+           <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
+              id ="imageLettuce"/> </td>
+            <td> Apple info1 </td>
+          </tr>
+        </table>
+
+        <table id = "row4" >
+          <tr>
+            <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+              id ="imageLettuce"/> </td>
+            <td> Apple info Apple info Apple info Apple info </td>
+
+            <td id ="columnSpace"> </td>
+
+            <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
+               id ="imageLettuce"/> </td>
+             <td> Apple info1 </td>
+           </tr>
+         </table>
+
+         <table id = "row5" >
+           <tr>
+             <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+               id ="imageLettuce"/> </td>
+             <td> Apple info Apple info Apple info Apple info </td>
+
+             <td id ="columnSpace"> </td>
+
+             <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
+                id ="imageLettuce"/> </td>
+              <td> Apple info1 </td>
+            </tr>
+          </table>
+
      </table>
    </div>
 

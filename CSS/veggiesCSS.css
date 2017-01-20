@@ -16,15 +16,31 @@ h1 {
 
 td {
   width: 100px;
-  word-break:normal;
+  word-break: normal;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.nav {
+  float: left;
+  height: 100%;
+  width: 5%;
+  padding-left: 25px;
+  position: absolute;
 }
 
 #table{
   margin: 0px 0px 0px 100px;
 }
 
-#row1, #row2 {
+#row1, #row2, #row3, #row4, #row5 {
   border-spacing: 15px 0px;
+  padding-left: 5%;
 }
 
 #columnSpace {

@@ -12,6 +12,11 @@
    <h1> Fruits </h1>
 
    <div id ="divider"></div>
+   <div class="nav">
+      <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
+      <a href="../webpages/beesHome" target="_blank"> Honey </a>
+      <a href="" target="_blank"> Worms</a>
+   </div>
 
    <div id ="table">
    <table id = "row1" >

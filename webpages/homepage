@@ -22,7 +22,7 @@
     <p>  <a href = "../webpages/veggiesHome" target="_blank">
       Veggies </a>
       <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
-      <a href="../webpages/beesHome"> Honey </a>
+      <a href="../webpages/beesHome" target="_blank"> Honey </a>
       <a href=""> Worms</a>
     </p>
 
