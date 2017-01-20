@@ -9,7 +9,7 @@ div {
 
 h1 {
   color: #045A12;
-  font-size: 48px;
+  font-size: 56px;
   text-align: left;
   margin: 0px 35px 0px 12px;
 }
@@ -17,12 +17,16 @@ h1 {
 a {
   color: black;
   text-decoration: none;
+  font-family: fantasy;
+  font-size: 20px;
+  word-spacing: 150px;
+  line-height: 0%;
 }
 
 #introStatement {
   color: #045A12;
-  font-size: 30px;
-  line-height: .3%;
+  font-size: 40px;
+  line-height: 70%;
   text-align: left;
   margin: 0px 0px 0px 12px;
   padding: 0px 0px 25px 0px;
@@ -30,13 +34,6 @@ a {
 
 #introParagraph, #introParagraph2 {
   font-size: 19px;
-}
-
-#comingSoon{
-  color: #045A12;
-  font-size: 25px;
-  font-weight: bold;
-  font-style: italic;
 }
 
 #imageBumblebee {
@@ -58,4 +55,5 @@ a {
   border-width: thin;
   border-style: solid;
   margin-top: 15px;
+  margin-bottom: 15px;
 }

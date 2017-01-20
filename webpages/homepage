@@ -4,17 +4,30 @@
   <meta charset="utf-8">
   <title>T &amp; C Enterprises </title>
   <link href="../CSS/tc.css" rel="stylesheet" />
+  <link rel="icon"  href="../images/bumblebee" />
   </head>
 
   <body>
     <div id = "container">
+    <div id ="header">
     <h1> T & C Produce </h1>
     <p>
       <img src="../images/bumblebee.jpeg" alt="Bumblebee" id="imageBumblebee"/>
     </p>
     <p id="introStatement"> Grow &amp; Sustain </p>
+  </div>
 
     <div id ="divider"></div>
+
+    <p>  <a href = "../webpages/veggiesHome" target="_blank">
+      Veggies </a>
+      <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
+      <a href=""> Honey </a> <a href=""> Worms</a>
+    </p>
+
+
+    <div id ="divider"></div>
+
 
     <p id="introParagraph">
       Locally grown all year round with lots of hard work
@@ -28,11 +41,6 @@
 
     <p id="introParagraph2"> We love what we do and hope you do too. </p>
 
-    <h2> <a href = "../webpages/veggiesHome" target="_blank"> Veggies </a>
-     </h2>
-    <h2> <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
-     </h2>
-    <h2 id="comingSoon"> And Coming Soon HONEY </h2>
   </div>
   </body>
 </html>

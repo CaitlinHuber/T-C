@@ -1,6 +1,6 @@
 body {
   background-color: #FFFDD8;
-  
+
 }
 
 
@@ -15,11 +15,13 @@ h1 {
 .table1 {
   float:left;
   width: 45%;
+
 }
 
 .table2 {
   float:right;
   width: 45%;
+
 }
 
 #divider{
