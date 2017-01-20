@@ -17,12 +17,15 @@
      <tr>
        <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
          id ="imageLettuce"/> </td>
-       <td> Apple info </td>
+       <td> Apple info Apple info Apple info Apple info </td>
+
        <td id ="columnSpace"> </td>
+
        <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
           id ="imageLettuce"/> </td>
-        <td> Apple info </td>
+        <td> Apple info1 </td>
       </tr>
+
     </table>
     <table id ="row2">
       <tr>

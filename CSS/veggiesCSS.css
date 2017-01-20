@@ -1,8 +1,11 @@
 body {
   background-color: #FFFDD8;
-
 }
 
+div {
+  text-align: center;
+  position: relative;
+}
 
 h1 {
   color: #045A12;
@@ -11,17 +14,21 @@ h1 {
   margin: 0px 0px 0px 12px;
 }
 
-
-.table1 {
-  float:left;
-  width: 45%;
-
+td {
+  width: 100px;
+  word-break:normal;
 }
 
-.table2 {
-  float:right;
-  width: 45%;
+#table{
+  margin: 0px 0px 0px 100px;
+}
 
+#row1, #row2 {
+  border-spacing: 15px 0px;
+}
+
+#columnSpace {
+width: 20%;
 }
 
 #divider{
