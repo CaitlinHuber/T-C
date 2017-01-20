@@ -2,7 +2,7 @@
 <html>
   <head>
   <meta charset="utf-8">
-  <title> Veggies </title>
+  <title> TESTING  </title>
   <link href="../CSS/testingCSS.css" rel="stylesheet" />
   </head>
 
@@ -12,52 +12,40 @@
 
    <div id ="divider"></div>
 
-   <div id ="tables1">
+
+   <div class ="table1">
+  <center>
    <table>
-     <caption align="bottom"> aaaaaaaaaaaaaaaaaaa
-       aaaaaaaaaaaaaaa  aaaaaaa  aa a a a a a a</caption>
-     <tr>
-       <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-         id ="imageLettuce"/> </th>
-       </table>
-
-       <table >
-         <caption align="bottom"> Lettuce Info </caption>
-         <tr>
-           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-             id ="imageLettuce"/> </th>
-       </table>
-
-       <table>
-         <caption align="bottom"> Lettuce Info </caption>
-         <tr>
-           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-             id ="imageLettuce"/> </th>
-       </table>
+    <tr>
+        <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+         id ="imageLettuce"/> </td>
+         <td> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa </td>
+      </tr>
+      <tr>
+          <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </td>
+           <td> col1</td>
+        </tr>
+      </table>
      </div>
 
-     <div id ="tables2">
+     <div class ="table2">
        <table>
-         <caption align="bottom"> Lettuce Info </caption>
-         <tr>
-           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-             id ="imageLettuce"/> </th>
-       </table>
-
-       <table>
-         <caption align="bottom"> Lettuce Info </caption>
-         <tr>
-           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-             id ="imageLettuce"/> </th>
-       </table>
-
-       <table>
-         <caption align="bottom"> Lettuce Info </caption>
-         <tr>
-           <th> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-             id ="imageLettuce"/> </th>
-       </table>
+       <tr>
+       <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+        id ="imageLettuce"/> </td>
+        <td> col2 </td>
+      </tr>
+      <tr>
+         <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+            id ="imageLettuce"/> </td>
+          <td> Lettuce Info2 </td>
+        </tr>
+      </table>
      </div>
-     
+
+   </center>
+   </div>
+
   </body>
 </html>

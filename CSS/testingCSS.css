@@ -1,10 +1,8 @@
 body {
   background-color: #FFFDD8;
+  position: relative;
 }
 
-div {
-  text-align: center;
-}
 
 h1 {
   color: #045A12;
@@ -13,17 +11,16 @@ h1 {
   margin: 0px 0px 0px 12px;
 }
 
-td {
-  padding-right: 20px;
+
+.table1 {
+  float:left;
+  width: 45%;
 }
 
-table{
-  height: 250px;
-  float: left;
-  width:33%;
+.table2 {
+  float:right;
+  width: 45%;
 }
-
-
 
 #divider{
   border-width: thin;

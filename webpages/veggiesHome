@@ -2,41 +2,50 @@
 <html>
   <head>
   <meta charset="utf-8">
-  <title> Veggies </title>
-  <link href="../CSS/veggiesCSS.css" rel="stylesheet" />
+  <title> Vegetables </title>
+  <link href="../CSS/testingCSS.css" rel="stylesheet" />
   </head>
 
   <body>
    <div id = "container">
-   <h1> Vegtables </h1>
+   <h1> Vegetables </h1>
 
    <div id ="divider"></div>
 
-   <div id ="table">
-   <table id = "row1" >
-     <tr>
-       <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-         id ="imageLettuce"/> </td>
-       <td> ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
-       <td id ="columnSpace"> </td>
-       <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
-          id ="imageLettuce"/> </td>
-        <td> Lettuce info </td>
-      </tr>
-    </table>
-    <table id ="row2">
-      <tr>
+
+   <div class ="table1">
+  <center>
+   <table>
+    <tr>
         <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
-          id ="imageLettuce"/> </td>
-        <td> Lettuce info </td>
-        <td id ="columnSpace"> </td>
-        <td>  <img src = "../images/lettuce.jpeg" alt = "lettuce"
-           id ="imageLettuce"/> </td>
-         <td> Lettuce info </td>
-       </tr>
-     </table>
+         id ="imageLettuce"/> </td>
+         <td> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa </td>
+      </tr>
+      <tr>
+          <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+             id ="imageLettuce"/> </td>
+           <td> col1</td>
+        </tr>
+      </table>
+     </div>
+
+     <div class ="table2">
+       <table>
+       <tr>
+       <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+        id ="imageLettuce"/> </td>
+        <td> col2 </td>
+      </tr>
+      <tr>
+         <td> <img src = "../images/lettuce.jpeg" alt = "lettuce"
+            id ="imageLettuce"/> </td>
+          <td> Lettuce Info2 </td>
+        </tr>
+      </table>
+     </div>
+
+   </center>
    </div>
 
-   </div>
   </body>
 </html>
