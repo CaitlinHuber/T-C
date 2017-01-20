@@ -2,9 +2,9 @@
 <html>
   <head>
   <meta charset="utf-8">
+  <link href="../images/favicon.jpg" type="image/gif" rel="shortcut icon"/>
   <title>T &amp; C Enterprises </title>
   <link href="../CSS/tc.css" rel="stylesheet" />
-  <link rel="icon"  href="../images/bumblebee" />
   </head>
 
   <body>
@@ -26,9 +26,7 @@
       <a href=""> Worms</a>
     </p>
 
-
     <div id ="divider"></div>
-
 
     <p id="introParagraph">
       Locally grown all year round with lots of hard work

@@ -3,6 +3,7 @@
   <head>
   <meta charset="utf-8">
   <title> Vegetables </title>
+  <link href="../images/favicon.jpg" type="image/gif" rel="shortcut icon"/>
   <link href="../CSS/veggiesCSS.css" rel="stylesheet" />
   </head>
 
