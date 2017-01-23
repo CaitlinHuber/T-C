@@ -3,7 +3,7 @@ body {
 }
 
 div {
-  text-align: center;
+
   position: relative;
 }
 
@@ -27,6 +27,8 @@ a {
   font-size: 25px;
 }
 
+
+
 .nav {
   float: left;
   height: 100%;
@@ -36,7 +38,7 @@ a {
 }
 
 #table{
-  margin: 0px 0px 0px 100px;
+  margin: 0px 0px 0px 120px;
 }
 
 #row1, #row2, #row3, #row4, #row5 {
