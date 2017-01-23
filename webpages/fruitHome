@@ -8,15 +8,21 @@
   </head>
 
   <body>
-   <div id = "container">
+   <div class = "container">
    <h1> Fruits </h1>
 
    <div id ="divider"></div>
+
+   <div class="navBar">
+   <div id ="lNavDivid"></div>
+   <div id ="rNavDivid"></div>
    <div class="nav">
       <a href =  "../webpages/fruitHome" target="_blank"> Fruits </a>
       <a href="../webpages/beesHome" target="_blank"> Honey </a>
       <a href="" target="_blank"> Worms</a>
+        <a href="../webpages/homepage" target="_blank">Home</a>
    </div>
+ </div>
 
    <div id ="table">
    <table id = "row1" >

@@ -16,14 +16,15 @@ h1 {
 
 td {
   width: 100px;
-  word-break:normal;
+  word-break: normal;
 }
 
 a {
   color: black;
+  line-height: 75px;
   text-decoration: none;
   font-family: fantasy;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .nav {
@@ -34,13 +35,13 @@ a {
   position: absolute;
 }
 
-
 #table{
   margin: 0px 0px 0px 100px;
 }
 
-#row1, #row2 {
+#row1, #row2, #row3, #row4, #row5 {
   border-spacing: 15px 0px;
+  padding-left: 5%;
 }
 
 #columnSpace {
@@ -52,6 +53,20 @@ width: 20%;
   border-style: solid;
   margin-top: 15px;
   margin-bottom: 35px;
+}
+#rNavDivid{
+   border-left: thin solid;
+   height: 270px;
+   position: absolute;
+   left: 120px;
+   margin-top: 10px;
+}
+#lNavDivid {
+  border-left: thin solid;
+  height: 270px;
+  position: absolute;
+  left: 10px;
+  margin-top: 10px;
 }
 
 #imageLettuce {
